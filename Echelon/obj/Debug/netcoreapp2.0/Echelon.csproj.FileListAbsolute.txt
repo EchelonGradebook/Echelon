@@ -82,3 +82,15 @@ C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\obj\Debug\netcor
 C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfo.cs
 C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.dll
 C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.deps.json
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.json
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.dev.json
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csprojResolveAssemblyReference.cache
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csproj.CoreCompileInputs.cache
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfoInputs.cache
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfo.cs
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\xxaci\Source\Repos\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.pdb
