@@ -13176,11 +13176,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Keiro_PC\\OneDrive\\Echelon Gradebook\\Echelon\\Echelon\\Echelon\\Echelon.csproj",
+      "projectUniqueName": "C:\\Users\\Keiro_PC\\OneDrive\\Echelon Gradebook\\EchelonLaptop\\Echelon\\Echelon\\Echelon.csproj",
       "projectName": "Echelon",
-      "projectPath": "C:\\Users\\Keiro_PC\\OneDrive\\Echelon Gradebook\\Echelon\\Echelon\\Echelon\\Echelon.csproj",
+      "projectPath": "C:\\Users\\Keiro_PC\\OneDrive\\Echelon Gradebook\\EchelonLaptop\\Echelon\\Echelon\\Echelon.csproj",
       "packagesPath": "C:\\Users\\Keiro_PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Keiro_PC\\OneDrive\\Echelon Gradebook\\Echelon\\Echelon\\Echelon\\obj\\",
+      "outputPath": "C:\\Users\\Keiro_PC\\OneDrive\\Echelon Gradebook\\EchelonLaptop\\Echelon\\Echelon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
