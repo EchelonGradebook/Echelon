@@ -1,0 +1,84 @@
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.deps.json
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.json
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.dev.json
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csprojResolveAssemblyReference.cache
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfoInputs.cache
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfo.cs
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Josh\OneDrive\Programming\Adv Project Dev\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.deps.json
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.json
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.dev.json
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csprojResolveAssemblyReference.cache
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csproj.CoreCompileInputs.cache
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfoInputs.cache
+C:\Users\Keiro_PC\OneDrive\Echelon Gradebook\Echelon\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfo.cs
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csprojResolveAssemblyReference.cache
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csproj.CoreCompileInputs.cache
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfoInputs.cache
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfo.cs
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.deps.json
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.json
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.dev.json
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\Echelon\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.deps.json
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.json
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.dev.json
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csprojResolveAssemblyReference.cache
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csproj.CoreCompileInputs.cache
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfoInputs.cache
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfo.cs
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonBackup\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.deps.json
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.json
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.dev.json
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csprojResolveAssemblyReference.cache
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csproj.CoreCompileInputs.cache
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfoInputs.cache
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfo.cs
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\xxaci\Source\Repos\EchelonGradeBook2\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.deps.json
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.json
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.dev.json
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfoInputs.cache
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfo.cs
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook-master\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.deps.json
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.json
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.dev.json
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\bin\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfoInputs.cache
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfo.cs
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Josh\Documents\GitHub\EchelonGradeBook\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.pdb

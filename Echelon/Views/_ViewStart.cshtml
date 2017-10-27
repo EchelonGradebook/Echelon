@@ -1,0 +1,21 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Echelon.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@if (SignInManager.IsSignedIn(User)  && UserManager.GetUserAsync(User).Result.Roles == "Student")
+{
+    Layout = "_LayoutStudent";
+}
+else if (SignInManager.IsSignedIn(User) && UserManager.GetUserAsync(User).Result.Roles == "Teacher")
+{
+    Layout = "_LayoutTeacher";
+}
+else if (SignInManager.IsSignedIn(User) && UserManager.GetUserAsync(User).Result.Roles == "Administrator")
+{
+    Layout = "_LayoutAdmin";
+}
+else{
+    Layout = "_Layout";
+}
