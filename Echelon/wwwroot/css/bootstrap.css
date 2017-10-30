@@ -2244,42 +2244,42 @@ fieldset[disabled] .btn-warning.active {
   background-color: #fff;
 }
 .btn-danger {
-  color: #fff;
-  background-color: #d9534f;
-  border-color: #d43f3a;
+	color: #fff;
+	background-color: #375a7f;
+	border-color: #d43f3a;
 }
-.btn-danger:hover,
-.btn-danger:focus,
-.btn-danger:active,
-.btn-danger.active,
-.open .dropdown-toggle.btn-danger {
-  color: #fff;
-  background-color: #d2322d;
-  border-color: #ac2925;
-}
+	.btn-danger:hover,
+	.btn-danger:focus,
+	.btn-danger:active,
+	.btn-danger.active,
+	.open .dropdown-toggle.btn-danger {
+		color: #fff;
+		background-color: #375a7f;
+		border-color: #ac2925;
+	}
 .btn-danger:active,
 .btn-danger.active,
 .open .dropdown-toggle.btn-danger {
   background-image: none;
 }
-.btn-danger.disabled,
-.btn-danger[disabled],
-fieldset[disabled] .btn-danger,
-.btn-danger.disabled:hover,
-.btn-danger[disabled]:hover,
-fieldset[disabled] .btn-danger:hover,
-.btn-danger.disabled:focus,
-.btn-danger[disabled]:focus,
-fieldset[disabled] .btn-danger:focus,
-.btn-danger.disabled:active,
-.btn-danger[disabled]:active,
-fieldset[disabled] .btn-danger:active,
-.btn-danger.disabled.active,
-.btn-danger[disabled].active,
-fieldset[disabled] .btn-danger.active {
-  background-color: #d9534f;
-  border-color: #d43f3a;
-}
+	.btn-danger.disabled,
+	.btn-danger[disabled],
+	fieldset[disabled] .btn-danger,
+	.btn-danger.disabled:hover,
+	.btn-danger[disabled]:hover,
+	fieldset[disabled] .btn-danger:hover,
+	.btn-danger.disabled:focus,
+	.btn-danger[disabled]:focus,
+	fieldset[disabled] .btn-danger:focus,
+	.btn-danger.disabled:active,
+	.btn-danger[disabled]:active,
+	fieldset[disabled] .btn-danger:active,
+	.btn-danger.disabled.active,
+	.btn-danger[disabled].active,
+	fieldset[disabled] .btn-danger.active {
+		background-color: #375a7f;
+		border-color: #d43f3a;
+	}
 .btn-danger .badge {
   color: #d9534f;
   background-color: #fff;
@@ -3737,11 +3737,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-width: 1px 0 0;
 }
 .navbar-brand {
-  float: left;
-  height: 50px;
-  padding: 15px 15px;
-  font-size: 18px;
-  line-height: 20px;
+	float: left;
+	height: 50px;
+	padding: 15px 15px;
+	font-size: 18px;
+	line-height: 20px;
+	background: #375a7f;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
