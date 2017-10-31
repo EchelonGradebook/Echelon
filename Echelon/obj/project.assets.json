@@ -5164,7 +5164,7 @@
       ]
     },
     "Microsoft.AspNetCore.All/2.0.0": {
-      "sha512": "IB/6hoGtB8su+WApeQ/y+f5LGtkfBdK6QQ1Q64K88C91dstDlPF89LIimyANFwglraSSVU+oFMNMO/p83ck7HQ==",
+      "sha512": "AQ4SM2ZY+yhkQ+kJADXP6OpBpR4xWScYsy7WtV77LxXSroSc8PBe3LORa1eycC1zF3ob/vq6WAn5SEtElaOZcQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.all/2.0.0",
       "files": [
@@ -13176,11 +13176,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonHome\\Echelon\\Echelon.csproj",
+      "projectUniqueName": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonSurface\\Echelon\\Echelon.csproj",
       "projectName": "Echelon",
-      "projectPath": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonHome\\Echelon\\Echelon.csproj",
+      "projectPath": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonSurface\\Echelon\\Echelon.csproj",
       "packagesPath": "C:\\Users\\Keiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonHome\\Echelon\\obj\\",
+      "outputPath": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonSurface\\Echelon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
