@@ -3,22 +3,22 @@
 
 @inject UserManager<ApplicationUser> UserManager
 
-@{
-    ViewData["Title"] = "Home";
-}
 <h2>Home</h2>
 @{ 
     if (UserManager.GetUserAsync(User).Result.Roles == "Student")
     {
+        ViewData["Title"] = "Student Home";
         <h3>Student</h3>
     }
     else if (UserManager.GetUserAsync(User).Result.Roles == "Teacher")
     {
+        ViewData["Title"] = "Teacher Home";
         <h3>Teacher</h3>
 
     }
     else if (UserManager.GetUserAsync(User).Result.Roles == "Administrator")
     {
+        ViewData["Title"] = "Admin Home";
         <h3>Admin</h3>
     }
     else {

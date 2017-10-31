@@ -19,7 +19,20 @@ namespace Echelon.Controllers
         {
             return View();
         }
-        
 
+        public IActionResult Assignments()
+        {
+            return View();
+        }
+
+        public IActionResult Attendance()
+        {
+            return View();
+        }
+
+        public IActionResult Grades()
+        {
+            return View();
+        }
     }
 }

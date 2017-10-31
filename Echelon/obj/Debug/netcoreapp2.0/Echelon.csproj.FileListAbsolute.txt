@@ -94,3 +94,15 @@ C:\Users\xxaci\Source\Repos\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.Asse
 C:\Users\xxaci\Source\Repos\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfo.cs
 C:\Users\xxaci\Source\Repos\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.dll
 C:\Users\xxaci\Source\Repos\Echelon\Echelon\obj\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\bin\Debug\netcoreapp2.0\Echelon.deps.json
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.json
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\bin\Debug\netcoreapp2.0\Echelon.runtimeconfig.dev.json
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\bin\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\bin\Debug\netcoreapp2.0\Echelon.pdb
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\obj\Debug\netcoreapp2.0\Echelon.csprojResolveAssemblyReference.cache
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\obj\Debug\netcoreapp2.0\Echelon.csproj.CoreCompileInputs.cache
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfoInputs.cache
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\obj\Debug\netcoreapp2.0\Echelon.AssemblyInfo.cs
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\obj\Debug\netcoreapp2.0\Echelon.dll
+C:\Users\Keiro\OneDrive\Echelon Gradebook\EchelonHome\Echelon\obj\Debug\netcoreapp2.0\Echelon.pdb

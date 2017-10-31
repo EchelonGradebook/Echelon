@@ -1,0 +1,28 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Echelon.Models
+
+@inject UserManager<ApplicationUser> UserManager
+
+<h2>Assignments</h2>
+@{
+    if (UserManager.GetUserAsync(User).Result.Roles == "Student")
+    {
+        ViewData["Title"] = "Student Assignments";
+        <h3>Student</h3>
+    }
+    else if (UserManager.GetUserAsync(User).Result.Roles == "Teacher")
+    {
+        ViewData["Title"] = "Teacher Assignments";
+        <h3>Teacher</h3>
+
+    }
+    else if (UserManager.GetUserAsync(User).Result.Roles == "Administrator")
+    {
+        ViewData["Title"] = "Admin Assignments";
+        <h3>Admin</h3>
+    }
+    else
+    {
+        <h3>ERROR</h3>
+    }
+}
