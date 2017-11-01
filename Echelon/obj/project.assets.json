@@ -13167,7 +13167,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Keiro\\.nuget\\packages\\": {},
+    "C:\\Users\\xxaci\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13176,17 +13176,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonSurface\\Echelon\\Echelon.csproj",
+      "projectUniqueName": "C:\\Users\\xxaci\\Source\\Repos\\EchelonNew\\Echelon\\Echelon.csproj",
       "projectName": "Echelon",
-      "projectPath": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonSurface\\Echelon\\Echelon.csproj",
-      "packagesPath": "C:\\Users\\Keiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonSurface\\Echelon\\obj\\",
+      "projectPath": "C:\\Users\\xxaci\\Source\\Repos\\EchelonNew\\Echelon\\Echelon.csproj",
+      "packagesPath": "C:\\Users\\xxaci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\xxaci\\Source\\Repos\\EchelonNew\\Echelon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Keiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\xxaci\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
