@@ -5164,7 +5164,7 @@
       ]
     },
     "Microsoft.AspNetCore.All/2.0.0": {
-      "sha512": "AQ4SM2ZY+yhkQ+kJADXP6OpBpR4xWScYsy7WtV77LxXSroSc8PBe3LORa1eycC1zF3ob/vq6WAn5SEtElaOZcQ==",
+      "sha512": "IB/6hoGtB8su+WApeQ/y+f5LGtkfBdK6QQ1Q64K88C91dstDlPF89LIimyANFwglraSSVU+oFMNMO/p83ck7HQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.all/2.0.0",
       "files": [
@@ -13167,7 +13167,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xxaci\\.nuget\\packages\\": {},
+    "C:\\Users\\Keiro\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13176,17 +13176,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\xxaci\\Source\\Repos\\EchelonNew\\Echelon\\Echelon.csproj",
+      "projectUniqueName": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonHome\\Echelon\\Echelon.csproj",
       "projectName": "Echelon",
-      "projectPath": "C:\\Users\\xxaci\\Source\\Repos\\EchelonNew\\Echelon\\Echelon.csproj",
-      "packagesPath": "C:\\Users\\xxaci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xxaci\\Source\\Repos\\EchelonNew\\Echelon\\obj\\",
+      "projectPath": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonHome\\Echelon\\Echelon.csproj",
+      "packagesPath": "C:\\Users\\Keiro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonHome\\Echelon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\xxaci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Keiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
