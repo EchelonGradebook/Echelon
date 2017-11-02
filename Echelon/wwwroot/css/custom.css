@@ -309,12 +309,10 @@ max-width:170px;
 	border-bottom:none;
 	
 }
-.navbar-cls-top .navbar-brand:hover {
-
-background: #C90000;
-color:#fff;
-
-}
+	.navbar-cls-top .navbar-brand:hover {
+		background: #A70303;
+		color: #fff;
+	}
 
 .navbar-default {
 border:0px solid black;
@@ -323,8 +321,13 @@ border:0px solid black;
 .navbar-header {
     background: #A70303;
 }
+
+.navbar-header:hover .navbar-header:focus {
+		background-color: #A70303;
+}
+
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-background-color: #B40101;
+	background-color: #A70303;
 }
 .navbar-default .navbar-toggle {
 border-color: #fff;

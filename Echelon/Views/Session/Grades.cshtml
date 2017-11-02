@@ -8,26 +8,18 @@
     if (UserManager.GetUserAsync(User).Result.Roles == "Student")
     {
         ViewData["Title"] = "Student Grades";
-        //Stored procedure to get all student courses, grades per course, assignments with thier grades
-        //Stored procedure to get all student courses, grades per course, assignments with thier grades from archived courses
-        //Stored procedure to get student attendance per course
-        //Stored procedure to get student attendance per course from archived courses
+        <h3>Student</h3>
     }
     else if (UserManager.GetUserAsync(User).Result.Roles == "Teacher")
     {
         ViewData["Title"] = "Teacher Grades";
-        //Stored procedure to get all courses they made, students in each course, students overall grades per course, students assignments with grade per course, able to edit
-        //Stored procedure to get ^^^^^ from archived classes. able to edit
-        //Stored procedure to get students attendance per course. able to edit
-        //Stored procedure to archive a course. 
-        //Stored procedure that copies a selected course(can be archived or active) and makes an editable duplicate that is active.
-        //Make courses auto archive after course end date.
+        <h3>Teacher</h3>
 
     }
     else if (UserManager.GetUserAsync(User).Result.Roles == "Administrator")
     {
         ViewData["Title"] = "Admin Grades";
-        //All teacher stored procedures but unable to edit.
+        <h3>Admin</h3>
     }
     else
     {

@@ -1,14 +1,20 @@
 ﻿@using Microsoft.AspNetCore.Identity
 @using Echelon.Models
-
+@using Echelon.Classes
 @inject UserManager<ApplicationUser> UserManager
+
 
 <h2>Courses</h2>
 @{
+    StoredProcedure storedProcedue = new StoredProcedure();
+
     if (UserManager.GetUserAsync(User).Result.Roles == "Student")
     {
         ViewData["Title"] = "Student Courses";
         <h3>Student</h3>
+
+        storedProcedue.getCourses(UserManager.GetUserAsync(User).Result.UserName);
+
     }
     else if (UserManager.GetUserAsync(User).Result.Roles == "Teacher")
     {
