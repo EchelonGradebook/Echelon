@@ -5164,7 +5164,7 @@
       ]
     },
     "Microsoft.AspNetCore.All/2.0.0": {
-      "sha512": "IB/6hoGtB8su+WApeQ/y+f5LGtkfBdK6QQ1Q64K88C91dstDlPF89LIimyANFwglraSSVU+oFMNMO/p83ck7HQ==",
+      "sha512": "AQ4SM2ZY+yhkQ+kJADXP6OpBpR4xWScYsy7WtV77LxXSroSc8PBe3LORa1eycC1zF3ob/vq6WAn5SEtElaOZcQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.all/2.0.0",
       "files": [
@@ -13161,13 +13161,14 @@
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.0",
+      "Microsoft.Extensions.Configuration.Json >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0",
       "bootstrap >= 3.3.7"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Keiro\\.nuget\\packages\\": {},
+    "C:\\Users\\Josh\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13176,17 +13177,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonHome\\Echelon\\Echelon.csproj",
+      "projectUniqueName": "C:\\Users\\Josh\\Documents\\GitHub\\Echelon\\Echelon\\Echelon.csproj",
       "projectName": "Echelon",
-      "projectPath": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonHome\\Echelon\\Echelon.csproj",
-      "packagesPath": "C:\\Users\\Keiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Keiro\\OneDrive\\Echelon Gradebook\\EchelonHome\\Echelon\\obj\\",
+      "projectPath": "C:\\Users\\Josh\\Documents\\GitHub\\Echelon\\Echelon\\Echelon.csproj",
+      "packagesPath": "C:\\Users\\Josh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Josh\\Documents\\GitHub\\Echelon\\Echelon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Keiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Josh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13210,6 +13211,10 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.Extensions.Configuration.Json": {
+            "target": "Package",
+            "version": "2.0.0"
+          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "suppressParent": "All",
             "target": "Package",
