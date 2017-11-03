@@ -32,12 +32,15 @@ namespace Echelon
 
             services.AddDbContext<PositionContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
+            services.AddDbContext<CourseDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
+            services.AddTransient<ICourseRepository, EfCourseRepository>();
 
             services.AddAuthentication("AuthSecurity").AddCookie("AuthSecurity", options =>
             {
